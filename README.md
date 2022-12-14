@@ -2,8 +2,7 @@
 
 
 
-- 🔭 Hoje estou procurando meu primeiro emprego como Dev
-- 🌱 Estudando ReactJS e Typescript
+- 🌱 ReactJS, NodeJS e Javascprit
 
 
 <div align="center">
